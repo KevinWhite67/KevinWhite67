@@ -1,12 +1,11 @@
-# ¡Hola! Soy Kevin Alexis Sánchez Campos
+<div align="center">
 
-<h3 align="center">
- Desarrollador Full Stack •  Desarrollador Móvil •  Desarrollador de Software
-</h3>
+# 👋 ¡Hola! Soy Kevin Alexis Sánchez Campos
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Full+Stack+Developer;Mobile+Developer;Siempre+aprendiendo+nuevas+tecnologías" />
-</p>
+### 💻 Desarrollador Full Stack • 📱 Desarrollador Móvil • 🚀 Desarrollador de Software
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,html,css,js,ts,vue" /> </p>
+</div>
 
 ---
 
