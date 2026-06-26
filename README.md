@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Actualmente curso el noveno cuatrimestre de la carrera de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Tecámac, donde previamente obtuve el título de Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma.
 
@@ -17,21 +17,21 @@ Siempre estoy dispuesto a aprender nuevas tecnologías, mejorar mis habilidades 
 
 ---
 
-# 🚀 Tecnologías
+#  Tecnologías
 
-## 🎨 Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,html,css,js,ts,vue" />
 </p>
 
-## ⚙ Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=go,cs,java,php,laravel,cpp,kotlin" />
 </p>
 
-## 🗄 Bases de Datos
+## Bases de Datos
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,sqlite" />
@@ -52,7 +52,7 @@ Siempre estoy dispuesto a aprender nuevas tecnologías, mejorar mis habilidades 
 
 # 📂 Proyectos
 
-## 🛒 TeCommerce
+## TeCommerce
 
 
 Aplicación de comercio electrónico multiplataforma.
@@ -65,7 +65,7 @@ Aplicación de comercio electrónico multiplataforma.
 
 ---
 
-## 🏨 MagicRoom
+## MagicRoom
 
 
 Sistema de reservación y administración de habitaciones.
@@ -76,7 +76,7 @@ Sistema de reservación y administración de habitaciones.
 
 ---
 
-## 📅 Horaria
+## Horaria
 
 
 Aplicación para la gestión de horarios escolares.
@@ -87,7 +87,7 @@ Aplicación para la gestión de horarios escolares.
 
 ---
 
-## 💻 SecLap
+## SecLap
 
 
 Sistema para préstamo de equipos de cómputo.
@@ -98,7 +98,7 @@ Sistema para préstamo de equipos de cómputo.
 
 ---
 
-## 🍽 SpeedOrder
+## SpeedOrder
 
 
 Sistema para la gestión de órdenes en restaurantes.
@@ -108,7 +108,7 @@ Sistema para la gestión de órdenes en restaurantes.
 
 ---
 
-## 🎓 PiuttecMobile
+## PiuttecMobile
 
 
 Migración móvil del sistema escolar PIUTTEC.
@@ -117,10 +117,11 @@ Migración móvil del sistema escolar PIUTTEC.
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 ---
+## Objetio Profesional
 
-# 🎯 Objetivo Profesional
+Mi objetivo es consolidarme como Ingeniero de Software Full Stack, participando en proyectos innovadores que representen nuevos desafíos y me permitan aplicar mis conocimientos en el desarrollo de aplicaciones web, móviles y de software. Busco formar parte de equipos de trabajo donde pueda aportar soluciones eficientes, escalables y de calidad, utilizando buenas prácticas de desarrollo y tecnologías modernas.
 
-Mi objetivo es desarrollarme como **Ingeniero de Software Full Stack**, participando en proyectos innovadores donde pueda aportar soluciones de calidad y continuar creciendo profesionalmente.
+Además, estoy comprometido con el aprendizaje continuo y la mejora constante de mis habilidades técnicas y profesionales, con el propósito de contribuir al éxito de cada proyecto en el que participe y crecer como desarrollador, asumiendo responsabilidades que impulsen mi desarrollo dentro de la industria del software.
 
 ---
 
