@@ -9,9 +9,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador apasionado por crear aplicaciones web y móviles utilizando tecnologías modernas.
+Actualmente curso el noveno cuatrimestre de la carrera de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Tecámac, donde previamente obtuve el título de Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma.
 
-Actualmente curso el **noveno cuatrimestre** en la **Universidad Tecnológica de Tecámac**, donde obtuve el título de **TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma**.
+A lo largo de mi formación académica y personal he participado en el desarrollo de proyectos que abarcan desde aplicaciones móviles y sitios web hasta sistemas de gestión y plataformas de comercio electrónico. Estas experiencias me han permitido fortalecer mis conocimientos en desarrollo Full Stack, diseño de bases de datos, integración de APIs, autenticación de usuarios y arquitecturas modernas.
+
+Siempre estoy dispuesto a aprender nuevas tecnologías, mejorar mis habilidades y enfrentar desafíos que me permitan crecer tanto a nivel profesional como personal. Mi objetivo es contribuir al desarrollo de soluciones innovadoras que generen un impacto positivo y aporten valor a los usuarios.
 
 ---
 
@@ -52,7 +54,6 @@ Actualmente curso el **noveno cuatrimestre** en la **Universidad Tecnológica de
 
 ## 🛒 TeCommerce
 
-<img src="assets/tecommerce.png" width="700"/>
 
 Aplicación de comercio electrónico multiplataforma.
 
@@ -66,7 +67,6 @@ Aplicación de comercio electrónico multiplataforma.
 
 ## 🏨 MagicRoom
 
-<img src="assets/magicroom.png" width="700"/>
 
 Sistema de reservación y administración de habitaciones.
 
@@ -78,7 +78,6 @@ Sistema de reservación y administración de habitaciones.
 
 ## 📅 Horaria
 
-<img src="assets/horaria.png" width="700"/>
 
 Aplicación para la gestión de horarios escolares.
 
@@ -90,7 +89,6 @@ Aplicación para la gestión de horarios escolares.
 
 ## 💻 SecLap
 
-<img src="assets/seclap.png" width="700"/>
 
 Sistema para préstamo de equipos de cómputo.
 
@@ -102,7 +100,6 @@ Sistema para préstamo de equipos de cómputo.
 
 ## 🍽 SpeedOrder
 
-<img src="assets/speedorder.png" width="700"/>
 
 Sistema para la gestión de órdenes en restaurantes.
 
@@ -113,7 +110,6 @@ Sistema para la gestión de órdenes en restaurantes.
 
 ## 🎓 PiuttecMobile
 
-<img src="assets/piuttec.png" width="700"/>
 
 Migración móvil del sistema escolar PIUTTEC.
 
