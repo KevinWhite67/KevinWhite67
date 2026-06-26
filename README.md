@@ -125,10 +125,23 @@ Además, estoy comprometido con el aprendizaje continuo y la mejora constante de
 
 ---
 
-# 📫 Contacto
+#  Contacto
 
-📧 **Correo:** **[kevinalexissanchezcampos06@gmail.com](mailto:kevinalexissanchezcampos06@gmail.com)**
+<p align="center">
+<a href="mailto:kevinalexissanchezcampos06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🐙 **GitHub:** **github.com/KevinWhite67**
+<a href="https://github.com/KevinWhite67">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-💼 **LinkedIn:** **linkedin.com/in/kevin-alexis-sánchez-campos-907165354**
+<a href="https://www.linkedin.com/in/kevin-alexis-s%C3%A1nchez-campos-907165354/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+* **Correo:** `kevinalexissanchezcampos06@gmail.com`
+* **GitHub:** `github.com/KevinWhite67`
+* **LinkedIn:** `linkedin.com/in/kevin-alexis-sánchez-campos-907165354`
+
