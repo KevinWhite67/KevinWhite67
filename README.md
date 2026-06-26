@@ -43,9 +43,8 @@ Me interesa crear software funcional, escalable y con una buena experiencia de u
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,php,laravel,dotnet,node"/>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs"/>
 </p>
-
 ---
 
 ### Desarrollo Móvil
