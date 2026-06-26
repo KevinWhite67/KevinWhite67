@@ -24,37 +24,73 @@ Me interesa crear software funcional, escalable y con una buena experiencia de u
 
 ## Tecnologías
 
+### Lenguajes de Programación
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,dart,go,java,cs,php,kotlin,cpp"/>
+</p>
+
+---
+
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,html,css,js,ts,vue"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css"/>
 </p>
+
+---
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,cs,java,php,laravel,cpp,kotlin"/>
+<img src="https://skillicons.dev/icons?i=go,php,laravel,dotnet"/>
 </p>
+
+---
+
+### Desarrollo Móvil
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,react"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xamarin.Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+</p>
+
+---
 
 ### Bases de Datos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### Desarrollo Móvil
+---
+
+### Servicios en la Nube
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter,dart"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase"/>
+</p>
+
+---
+
+### Herramientas y Entornos de Desarrollo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xamarin.Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_Ecosystem-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
