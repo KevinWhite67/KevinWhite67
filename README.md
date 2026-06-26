@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Kevin Alexis Sánchez Campos
+# ¡Hola! Soy Kevin Alexis Sánchez Campos
 
 <h3 align="center">
-💻 Desarrollador Full Stack • 📱 Desarrollador Móvil • 🚀 Desarrollador de Software
+ Desarrollador Full Stack •  Desarrollador Móvil •  Desarrollador de Software
 </h3>
 
 <p align="center">
