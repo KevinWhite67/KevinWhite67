@@ -64,7 +64,7 @@ Me interesa crear software funcional, escalable y con una buena experiencia de u
 ### Bases de Datos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql"/>
 </p>
 
 <p align="center">
