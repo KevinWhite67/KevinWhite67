@@ -76,7 +76,12 @@ Me interesa crear software funcional, escalable y con una buena experiencia de u
 ### Servicios en la Nube
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,supabase,cloudinary"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase"/>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 ---
