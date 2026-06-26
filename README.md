@@ -17,39 +17,48 @@ Siempre estoy dispuesto a aprender nuevas tecnologías, mejorar mis habilidades 
 
 ---
 
-#  Tecnologías
+# 🚀 Tecnologías
 
-## Frontend
+<h1 align="center">Frontend</h1>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,html,css,js,ts,vue" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,html,css,js,ts,vue" />
 </p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=go,cs,java,php,laravel,cpp,kotlin" />
-</p>
-
-## Bases de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,sqlite" />
-</p>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-## 📱 Desarrollo móvil
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,dart" />
-</p>
-
-<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xamarin.Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
 
 ---
 
+<h1 align="center">Backend</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cs,java,php,laravel,cpp,kotlin" />
+</p>
+
+---
+
+<h1 align="center"> Base de datos</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,sqlite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+<h1 align="center"> Movil</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xamarin.Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
+</p>
+
+---
 # 📂 Proyectos
 
 ## TeCommerce
@@ -140,8 +149,3 @@ Además, estoy comprometido con el aprendizaje continuo y la mejora constante de
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
-* **Correo:** `kevinalexissanchezcampos06@gmail.com`
-* **GitHub:** `github.com/KevinWhite67`
-* **LinkedIn:** `linkedin.com/in/kevin-alexis-sánchez-campos-907165354`
-
