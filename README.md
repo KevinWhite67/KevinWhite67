@@ -3,8 +3,6 @@
 # 👋 ¡Hola! Soy Kevin Alexis Sánchez Campos
 
 ### 💻 Desarrollador Full Stack • 📱 Desarrollador Móvil • 🚀 Desarrollador de Software
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,html,css,js,ts,vue" /> </p>
 </div>
 
 ---
