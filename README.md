@@ -43,7 +43,7 @@ Me interesa crear software funcional, escalable y con una buena experiencia de u
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,php,laravel,dotnet"/>
+<img src="https://skillicons.dev/icons?i=go,php,laravel,dotnet,node"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Me interesa crear software funcional, escalable y con una buena experiencia de u
 ### Servicios en la Nube
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,supabase"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,cloudinary"/>
 </p>
 
 ---
@@ -84,7 +84,7 @@ Me interesa crear software funcional, escalable y con una buena experiencia de u
 ### Herramientas y Entornos de Desarrollo
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,"/>
 </p>
 
 <p align="center">
