@@ -1,53 +1,53 @@
-#  ¡Hola! Soy Kevin Alexis Sánchez Campos
+# 👋 ¡Hola! Soy Kevin Alexis Sánchez Campos
 
-#  Desarrollador Full Stack |  Desarrollador Móvil |  Desarrollador de Software
+<h3 align="center">
+💻 Desarrollador Full Stack • 📱 Desarrollador Móvil • 🚀 Desarrollador de Software
+</h3>
 
-Soy un desarrollador apasionado por crear aplicaciones web y móviles utilizando tecnologías modernas. Disfruto diseñar soluciones eficientes, aprender nuevas herramientas y enfrentar retos que impulsen mi crecimiento profesional.
-
-Actualmente curso el **noveno cuatrimestre** en la **Universidad Tecnológica de Tecámac**, donde obtuve el título de **Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma**.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+perfil+de+GitHub;Full+Stack+Developer;Mobile+Developer;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
 
 ---
 
-# 🛠️ Tecnologías
+## 👨‍💻 Sobre mí
 
-### 🎨 Frontend
+Soy un desarrollador apasionado por crear aplicaciones web y móviles utilizando tecnologías modernas.
 
-* React
-* Next.js
-* React Native
-* Flutter
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Vue.js
+Actualmente curso el **noveno cuatrimestre** en la **Universidad Tecnológica de Tecámac**, donde obtuve el título de **TSU en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma**.
 
-### ⚙️ Backend
+---
 
-* Go
-* C#
-* Java
-* PHP
-* Laravel
-* C++
-* Kotlin
+# 🚀 Tecnologías
 
-### 🗄️ Bases de Datos
+## 🎨 Frontend
 
-* PostgreSQL
-* SQL Server
-* MongoDB
-* SQLite
-* Supabase
-* Firebase
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,html,css,js,ts,vue" />
+</p>
 
-### 📱 Desarrollo Móvil
+## ⚙ Backend
 
-* React Native
-* .NET MAUI
-* Xamarin.Forms
-* Flutter
-* Dart
+<p>
+<img src="https://skillicons.dev/icons?i=go,cs,java,php,laravel,cpp,kotlin" />
+</p>
+
+## 🗄 Bases de Datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,sqlite" />
+</p>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+## 📱 Desarrollo móvil
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+</p>
+
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xamarin.Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
 
 ---
 
@@ -55,104 +55,86 @@ Actualmente curso el **noveno cuatrimestre** en la **Universidad Tecnológica de
 
 ## 🛒 TeCommerce
 
-### 📝 Descripción
+<img src="assets/tecommerce.png" width="700"/>
 
-Aplicación de comercio electrónico multiplataforma que permite a los usuarios explorar productos, realizar compras y administrar su cuenta desde dispositivos móviles y web.
+Aplicación de comercio electrónico multiplataforma.
 
-### ⚙️ Tecnologías
+### Tecnologías
 
-* React
-* React Native (Expo)
-* Go
-* Supabase
-* Firebase Authentication
+<p>
+<img src="https://skillicons.dev/icons?i=react,go,firebase,supabase" />
+</p>
 
 ---
 
 ## 🏨 MagicRoom
 
-### 📝 Descripción
+<img src="assets/magicroom.png" width="700"/>
 
-Aplicación web para la gestión y reservación de habitaciones. Permite administrar propiedades, imágenes, usuarios y reservas, además de integrar servicios de geolocalización para mejorar la experiencia del usuario.
+Sistema de reservación y administración de habitaciones.
 
-### ⚙️ Tecnologías
-
-* ASP.NET Core
-* C#
-* PostgreSQL
-* Entity Framework Core
-* APIs de Geolocalización
+<p>
+<img src="https://skillicons.dev/icons?i=cs,postgres" />
+</p>
 
 ---
 
 ## 📅 Horaria
 
-### 📝 Descripción
+<img src="assets/horaria.png" width="700"/>
 
-Aplicación multiplataforma para la creación y administración de horarios escolares. Facilita la organización de materias, horarios y aulas mediante una interfaz intuitiva.
+Aplicación para la gestión de horarios escolares.
 
-### ⚙️ Tecnologías
-
-* React Native
-* Expo
-* TypeScript
-* C#
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,cs" />
+</p>
 
 ---
 
 ## 💻 SecLap
 
-### 📝 Descripción
+<img src="assets/seclap.png" width="700"/>
 
-Sistema web para la gestión y préstamo de equipos de cómputo en una universidad. Permite administrar laptops, registrar préstamos y controlar la disponibilidad de los equipos.
+Sistema para préstamo de equipos de cómputo.
 
-### ⚙️ Tecnologías
-
-* PHP
-* HTML5
-* CSS3
-* PostgreSQL
+<p>
+<img src="https://skillicons.dev/icons?i=php,html,css,postgres" />
+</p>
 
 ---
 
-## 🍽️ SpeedOrder
+## 🍽 SpeedOrder
 
-### 📝 Descripción
+<img src="assets/speedorder.png" width="700"/>
 
-Aplicación multiplataforma diseñada para optimizar la toma y gestión de órdenes en restaurantes. Permite a los meseros registrar pedidos de manera rápida y eficiente, reduciendo errores y agilizando el servicio.
+Sistema para la gestión de órdenes en restaurantes.
 
-### ⚙️ Tecnologías
-
-* .NET MAUI
-* C#
-* SQLite
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 ---
 
 ## 🎓 PiuttecMobile
 
-### 📝 Descripción
+<img src="assets/piuttec.png" width="700"/>
 
-Aplicación móvil desarrollada como la migración de un sistema web de gestión escolar. Está enfocada en el rol de alumno, permitiendo consultar información académica, horarios, calificaciones y otros servicios desde dispositivos móviles.
+Migración móvil del sistema escolar PIUTTEC.
 
-### ⚙️ Tecnologías
-
-* .NET MAUI
-* C#
-* Supabase
+<img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 ---
 
 # 🎯 Objetivo Profesional
 
-Mi objetivo es desarrollarme como **Ingeniero de Software Full Stack**, participando en proyectos innovadores donde pueda aportar soluciones de calidad, aprender continuamente y crecer profesionalmente.
+Mi objetivo es desarrollarme como **Ingeniero de Software Full Stack**, participando en proyectos innovadores donde pueda aportar soluciones de calidad y continuar creciendo profesionalmente.
 
 ---
 
 # 📫 Contacto
 
-📧 **Correo:** kevinalexissanchezcampos06@gmail.com
+📧 **Correo:** **[kevinalexissanchezcampos06@gmail.com](mailto:kevinalexissanchezcampos06@gmail.com)**
 
-🐙 **GitHub:** https://github.com/KevinWhite67
+🐙 **GitHub:** **github.com/KevinWhite67**
 
-💼 **LinkedIn:** linkedin.com/in/kevin-alexis-sánchez-campos-907165354
+💼 **LinkedIn:** **linkedin.com/in/kevin-alexis-sánchez-campos-907165354**
