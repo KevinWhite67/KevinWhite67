@@ -14,7 +14,7 @@ Desarrollo aplicaciones web y móviles utilizando tecnologías modernas, con int
 
 ## Sobre mí
 
-Actualmente curso el **noveno cuatrimestre** de la carrera de **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Tecámac**, donde previamente obtuve el título de **Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma**.
+Actualmente curso el **decimo cuatrimestre** de la carrera de **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Tecámac**, donde previamente obtuve el título de **Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma**.
 
 Durante mi formación académica he participado en el desarrollo de aplicaciones web, móviles y sistemas de gestión, fortaleciendo mis conocimientos en desarrollo Full Stack, diseño de bases de datos, integración de APIs, autenticación de usuarios y desarrollo de soluciones multiplataforma.
 
